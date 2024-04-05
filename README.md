@@ -1,1 +1,5 @@
-
+- 👋 Hi, I’m @CristianCSx.
+- 👀 I’m interested in music, sports, movies/series, coding, frontEnd, backEnd...
+- 🌱 I’m currently learning backEnd at college and frontEnd by myself.
+- 💞️ I’m looking to collaborate on anything thats shows up :)
+- 📫 How to reach me...
